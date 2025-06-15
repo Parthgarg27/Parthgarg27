@@ -1,4 +1,4 @@
-![Black and Gray Minimalist Real Estate Twitter Header] (https://github.com/Parthgarg27/Parthgarg27/blob/main/Black%20and%20Gray%20Minimalist%20Real%20Estate%20Twitter%20Header.png?raw=true)
+![Black and Gray Minimalist Real Estate Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm Parth garg</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
