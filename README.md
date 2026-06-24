@@ -85,45 +85,7 @@
 
 ---
 
-<br>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<a href="https://github.com/Parthgarg27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthgarg27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Parth's GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/Parthgarg27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgarg27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Parthgarg27">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parthgarg27&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-
-[![Parth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthgarg27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true)](https://github.com/Parthgarg27)
-
-</div>
-
-<br>
-
----
 
 <br>
 
