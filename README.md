@@ -1,7 +1,7 @@
 <!-- Header Banner with Animated Wave Effect -->
 <div align="center">
 
-<img src="./header.svg" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,24,27&height=220&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Specialist&descSize=20&descAlignY=55" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="100%" />
 
 </div>
 
@@ -14,7 +14,7 @@
       <h3>👋 Hi there, I'm Parth Garg!</h3>
       <div>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A855F7&left=true&vCenter=true&repeat=true&width=450&height=32&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics);Building+Scalable+Full-Stack+%26+AI+Apps;Open+to+SDE+%26+AI%2FML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A855F7&left=true&vCenter=true&repeat=true&width=500&height=32&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics);Building+Scalable+Full-Stack+%26+AI+Apps;Open+to+SDE+%26+AI%2FML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
         </a>
       </div>
       <p>
