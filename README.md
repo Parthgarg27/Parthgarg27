@@ -1,70 +1,52 @@
-<!-- Header Banner -->
+<!-- Header Banner with Animated Wave Effect -->
 <div align="center">
 
-<img src="./banner.jpg" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="100%" />
-
-</div>
-
-
-<!-- Coding GIF -->
-<div align="center">
-
-<img src="./coding.gif" alt="Coding Animation" width="480" />
+<img src="./header.svg" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="100%" />
 
 </div>
 
 <br>
 
-<!-- Typing Animation -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics);Building+Full+Stack+%26+AI%2FML+Systems;Open+to+SDE+%26+AI%2FML+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-
----
-
-<!-- About Me -->
-<h2 align="center">👋 About Me</h2>
-
-<div align="center">
-
-```
-🎓  Final Year B.Tech CSE (AI & Analytics) — GLA University, Mathura
-💻  Building production-grade full-stack apps and AI-driven systems
-🏆  Top 20 @ LNM Hacks 7.0 (72h) · Top 10 @ Hack and Viz 2.0
-🔬  2× AI/ML Intern — Microsoft Edunet Foundation & SoftPro India
-🌐  Production site live: earthtravelsindia.in
-🎯  Open to SDE & AI/ML opportunities for 2027
-```
-
-</div>
-
-<br>
-
-<!-- Quick Links -->
-<div align="center">
-
-<a href="https://parthgarg.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-parthgarg.dev-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://parthgarg.dev/resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/parth-garg-336695289" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:garg83556@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+<!-- Hero Section: Split Layout (Eliminates vacant side space & delivers instant recruiter value) -->
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👋 Hi there, I'm Parth Garg!</h3>
+      <div>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A855F7&left=true&vCenter=true&repeat=true&width=450&height=32&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics);Building+Scalable+Full-Stack+%26+AI+Apps;Open+to+SDE+%26+AI%2FML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+        </a>
+      </div>
+      <p>
+        🎓 <b>Final Year B.Tech CSE (AI & Analytics)</b> — GLA University<br/>
+        💻 Building <b>production-grade full-stack apps</b> & <b>AI/ML systems</b><br/>
+        🏆 <b>Top 20 @ LNM Hacks 7.0</b> (72h) · <b>Top 10 @ Hack and Viz 2.0</b><br/>
+        🔬 <b>2× AI/ML Intern</b> at Microsoft Edunet Foundation & SoftPro India<br/>
+        🌐 Live Production Product: <a href="https://earthtravelsindia.in" target="_blank"><b>earthtravelsindia.in</b></a>
+      </p>
+      <div>
+        <a href="https://parthgarg.dev" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-parthgarg.dev-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+        </a>
+        &nbsp;
+        <a href="https://parthgarg.dev/resume.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Resume-Download-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+        </a>
+        &nbsp;
+        <a href="https://linkedin.com/in/parth-garg-336695289" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        &nbsp;
+        <a href="mailto:garg83556@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </div>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./coding.gif" alt="Coding Animation" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 

@@ -1,49 +1,64 @@
+<svg
+  width="100%"
+  height="220"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 854 220"
+  style="overflow: hidden; border-radius: 8px 8px 0 0;"
+>
+  <defs>
+    <linearGradient id="waveLinear" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+    <linearGradient id="waveLinear2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
 
-      <svg
-        width="854"
-        height="200"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
-      >
-        <style>
-      .text {   font-size: 50px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 18px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#4568dc"/><stop offset="100%" stop-color="#b06ab3"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#fff;" stroke="#none" stroke-width="1" >Parth Garg</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#fff;">Software Development Engineer | AI & ML Specialist</text>
-      </svg>
-    
+  <!-- Base gradient background fill with wave shape -->
+  <path d="M0 0 L 0 160 Q 213.5 195 427 165 T 854 175 L 854 0 Z" fill="url(#waveLinear)" opacity="0.88" />
+
+  <!-- Animated Wave Layer 1 -->
+  <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
+    <path d="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z" fill="url(#waveLinear)" opacity="0.55">
+      <animate
+        attributeName="d"
+        dur="16s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;
+                M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;
+                M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;
+                M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z" />
+    </path>
+
+    <!-- Animated Wave Layer 2 (Offset) -->
+    <path d="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z" fill="url(#waveLinear2)" opacity="0.65">
+      <animate
+        attributeName="d"
+        dur="16s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-8s"
+        values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;
+                M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;
+                M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;
+                M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z" />
+    </path>
+  </g>
+
+  <!-- Typography with subtle shadow for crisp contrast -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="48px" font-weight="800" letter-spacing="1.5px" filter="url(#glow)">Parth Garg</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" fill="#f1f5f9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18px" font-weight="500" letter-spacing="0.8px" filter="url(#glow)">Software Development Engineer &nbsp;•&nbsp; AI &amp; ML Specialist</text>
+</svg>
