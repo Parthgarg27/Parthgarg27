@@ -1,7 +1,7 @@
 <!-- Animated Wave Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,24,27&height=230&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4568dc,100:b06ab3&height=220&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI%20%26%20ML%20Specialist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" alt="Parth Garg" />
 
 </div>
 
@@ -90,11 +90,11 @@
 <div align="center">
 
 <a href="https://github.com/Parthgarg27">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthgarg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Parth's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parthgarg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Parth's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Parthgarg27">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthgarg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Parthgarg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
