@@ -1,7 +1,7 @@
 <!-- Animated Wave Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4568dc,100:b06ab3&height=220&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20|%20AI%20%26%20ML%20Specialist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" alt="Parth Garg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4568dc,100:b06ab3&height=220&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" alt="Parth Garg" />
 
 </div>
 
