@@ -1,7 +1,7 @@
 <!-- Header Banner with Animated Wave Effect -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,24,27&height=220&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Specialist&descSize=20&descAlignY=55" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,24,27&height=220&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20AI%20%26amp%3B%20ML%20Specialist&descSize=20&descAlignY=55" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="100%" />
 
 </div>
 
