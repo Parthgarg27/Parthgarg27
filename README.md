@@ -1,7 +1,7 @@
 <!-- Animated SVG Header -->
 <div align="center">
 
-<img src="./header.svg" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="854" />
+<img src="https://raw.githubusercontent.com/Parthgarg27/Parthgarg27/main/header.svg" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="854" />
 
 </div>
 
@@ -17,7 +17,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics)+%40+GLA+University;SDE+%7C+Full+Stack+Developer+%7C+AI+%26+ML+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics)+%40+GLA+University;SDE+%7C+Full+Stack+Developer+%7C+AI+%26+ML+Specialist)](https://git.io/typing-svg)
 
 </div>
 
@@ -89,11 +89,11 @@
 <div align="center">
 
 <a href="https://github.com/Parthgarg27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parthgarg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Parth's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthgarg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Parth's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Parthgarg27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthgarg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthgarg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
@@ -103,7 +103,7 @@
 <div align="center">
 
 <a href="https://github.com/Parthgarg27">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthgarg27&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a855f7&ring=6366f1&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Parthgarg27&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a855f7&ring=6366f1&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </a>
 
 </div>
