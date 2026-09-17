@@ -1,7 +1,7 @@
-<!-- Animated SVG Header -->
+<!-- Animated Wave Header -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Parthgarg27/Parthgarg27/main/header.svg" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" width="854" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,24,27&height=230&section=header&text=Parth%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" alt="Parth Garg — Software Development Engineer | AI & ML Specialist" />
 
 </div>
 
@@ -17,11 +17,12 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics)+%40+GLA+University;SDE+%7C+Full+Stack+Developer+%7C+AI+%26+ML+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Final+Year+B.Tech+CSE+(AI+%26+Analytics);Building+Full+Stack+%26+AI%2FML+Systems;Open+to+SDE+%26+AI%2FML+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <br>
+
 
 ---
 
